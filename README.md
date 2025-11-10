@@ -2,3 +2,5 @@
 NRF based wireless device
 
 Consists of 4 NRF24L01+ transceivers paired with a single ESP32 SoC for wireless applications
+
+[schematic.pdf](https://github.com/user-attachments/files/23459988/schematic.pdf)
