@@ -3,12 +3,12 @@
 
 
 #include <RF24.h>
-#include <Preferences.h>
+#include <Preferences.h> //EEPROM library of ESP32
 
 SPIClass *hp = nullptr;
 
 RF24 radio(4, 5);///CE,CSN
-Preferences preferences;
+Preferences preferences; //used for initiating the inbuilt EEPROM library to store the value of variables used in the last runtime
 
 byte i = 45;
 
