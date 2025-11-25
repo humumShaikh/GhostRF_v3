@@ -1,4 +1,4 @@
-# GhostRF_v3
+<img width="1098" height="830" alt="image" src="https://github.com/user-attachments/assets/e5157fc5-9f8d-46d5-893e-c9bfc0f94000" /># GhostRF_v3
 NRF based wireless device
 
 Consists of 4 NRF24L01+ transceivers paired with a single ESP32 SoC for wireless applications
@@ -15,5 +15,4 @@ Consists of 4 NRF24L01+ transceivers paired with a single ESP32 SoC for wireless
 
 
 **Connections**
-
-![Uploading image.png…]()
+<img width="1098" height="830" alt="image" src="https://github.com/user-attachments/assets/8469e276-a797-488c-8cf7-2ac09d93b79c" />
