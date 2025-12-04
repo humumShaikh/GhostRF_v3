@@ -15,3 +15,4 @@ Consists of 4 NRF24L01+ transceivers paired with a single ESP32 SoC for wireless
 
 **Connections**
 <img width="1098" height="830" alt="image" src="https://github.com/user-attachments/assets/8469e276-a797-488c-8cf7-2ac09d93b79c" />
+The connections are made through an enamel coated or insulated copper wire.
